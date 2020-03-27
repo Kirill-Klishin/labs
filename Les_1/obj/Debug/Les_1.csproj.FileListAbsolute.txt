@@ -1,0 +1,6 @@
+C:\Users\Геннадий\source\repos\Les_1\Les_1\bin\Debug\Les_1.exe
+C:\Users\Геннадий\source\repos\Les_1\Les_1\bin\Debug\Les_1.pdb
+C:\Users\Геннадий\source\repos\Les_1\Les_1\obj\Debug\Les_1.csprojAssemblyReference.cache
+C:\Users\Геннадий\source\repos\Les_1\Les_1\obj\Debug\Les_1.csproj.CoreCompileInputs.cache
+C:\Users\Геннадий\source\repos\Les_1\Les_1\obj\Debug\Les_1.exe
+C:\Users\Геннадий\source\repos\Les_1\Les_1\obj\Debug\Les_1.pdb
